@@ -4,7 +4,7 @@ In this repository I make available some of my presentations. Most of them I mad
 *Obs: Most of them are in portuguese, title inclusive.*
 
 # Análise Bio-Reacional do Ayahuasca no Corpo Humano
-##(Bio-Reaction Analysis of Ayahuasca in the Human Body)
+## (Bio-Reaction Analysis of Ayahuasca in the Human Body)
 
 ## authors: Lucas Nunes Sequeira and Marcus V. da Silva Abreu, Brasil.
 
@@ -13,7 +13,7 @@ In this repository I make available some of my presentations. Most of them I mad
 In this presentation we indroduce the molecules the make up Ayahuasca and discuss with further importance one of DMT's agonist, wich came to be Serotonin.
 
 # Migração de Cientístas: Aspectos Internacionais
-##(Migration of Scientists: International Aspects)
+## (Migration of Scientists: International Aspects)
 
 ## authors: Gabriel Morete, Lucas N. Sequeira and Thiago L. Oliveira, Brasil.
 
@@ -22,7 +22,7 @@ In this presentation we indroduce the molecules the make up Ayahuasca and discus
 In this presentation we used graph theory applying some algorithms to identify some clusters, como também associations between migrations of scientists around countrys worldwide.
 
 # Desenvolvimento Evolutivo
-##(Evolutionary Development)
+## (Evolutionary Development)
 
 ## author: Lucas Nunes Sequeira, Brasil.
 
